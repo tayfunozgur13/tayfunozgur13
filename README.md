@@ -38,14 +38,14 @@ I enjoy building backend systems, exploring software security, and developing to
 
 ## 🚀 Featured Projects
 
-### 🔐 AuthZ Scanner
+### 🔐 [AuthZ Scanner](https://github.com/tayfunozgur13/authz-scanner)
 A configuration-driven REST API authorization security scanner designed to detect vulnerabilities such as **BOLA, BFLA, mass assignment, excessive data exposure, and privilege escalation**.
 
-### 🧠 CNN-Based Steganalysis & Malicious Payload Detection
+### 🧠 [CNN-Based Steganalysis & Malicious Payload Detection](https://github.com/tayfunozgur13/stego-security-project)
 A security-focused deep learning project combining **CNN-based steganalysis, payload extraction, malicious command classification, and autonomous security decisions**.
 
-### 🧪 REST API Testing & Automation
-A Node.js REST API project focused on backend development, automated API testing, test reporting, and validation.
+### 🧪 [Public Transportation API Testing](https://github.com/tayfunozgur13/public-transportation-api-testing)
+A Node.js REST API project focused on backend development, automated API testing, business-rule validation, and test reporting.
 
 ## 🎯 Areas of Interest
 
